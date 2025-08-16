@@ -243,8 +243,7 @@ The application includes built-in rate limiting using Upstash Redis to prevent A
   <p>Built by developers, for developers who think better with organized thoughts</p>
   <p><em>"Because even the best ideas deserve a beautiful home"</em></p>
   <p>💻 Code • ☕ Coffee • 📝 Notes • 🔄 Repeat</p>
-  <br>
   <p>
-    <a href="https://github.com/thewijay">👨‍💻 Follow the creator</a> •
+    <a href="https://github.com/thewijay">👨‍💻 Follow the creator</a>
   </p>
 </div>
