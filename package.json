@@ -1,0 +1,20 @@
+{
+  "name": "thinkboard",
+  "version": "1.0.0",
+  "description": "A modern, full-stack note-taking application built with the MERN stack. ThinkBoard allows users to create, view, edit, and delete notes with a clean, responsive interface and rate limiting protection.",
+  "main": "index.js",
+  "scripts": {
+    "build": "npm install --prefix backend && npm install --prefix frontend && npm run build --prefix frontend"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thewijay/ThinkBoard.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thewijay/ThinkBoard/issues"
+  },
+  "homepage": "https://github.com/thewijay/ThinkBoard#readme"
+}
